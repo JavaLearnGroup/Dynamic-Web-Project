@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfcbc6fe-6971-4af8-bb05-39f58c71006d" name="Default Changelist" comment="" />
+    <list default="true" id="dfcbc6fe-6971-4af8-bb05-39f58c71006d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nf/com/ThreadSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZN4mlpH9hyzd1IwEQAoJBnUADC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/Python/p22naf" />
@@ -36,7 +44,7 @@
       <recent name="com.nf.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SonThread">
+  <component name="RunManager" selected="Application.ThreadSleep">
     <configuration name="MyCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nf.com.MyCallable" />
       <module name="Dynamic Web Project" />
@@ -89,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nf.com.ThreadSleep" />
+      <module name="Dynamic Web Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadSleep" />
         <item itemvalue="Application.SonThread" />
         <item itemvalue="Application.MyCallable" />
         <item itemvalue="Application.MyThread" />
@@ -125,6 +147,7 @@
       <workItem from="1584880619972" duration="1428000" />
       <workItem from="1585277229161" duration="2702000" />
       <workItem from="1586411253260" duration="7262000" />
+      <workItem from="1586487407229" duration="2464000" />
     </task>
     <servers />
   </component>
@@ -136,30 +159,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="556" y="196" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1584668732518" />
-    <state x="753" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1586423131380">
+    <state x="753" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1586487495499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586423131380" />
+    <state x="753" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586487495499" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584752422333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584752422333" />
-    <state width="1877" height="466" key="GridCell.Tab.0.bottom" timestamp="1586425783475">
+    <state width="1860" height="303" key="GridCell.Tab.0.bottom" timestamp="1586488075954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="466" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586425783475" />
-    <state width="1877" height="466" key="GridCell.Tab.0.center" timestamp="1586425783475">
+    <state width="1860" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586488075954" />
+    <state width="1860" height="303" key="GridCell.Tab.0.center" timestamp="1586488075954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="466" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586425783475" />
-    <state width="1877" height="466" key="GridCell.Tab.0.left" timestamp="1586425783475">
+    <state width="1860" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586488075954" />
+    <state width="1860" height="303" key="GridCell.Tab.0.left" timestamp="1586488075954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="466" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586425783475" />
-    <state width="1877" height="466" key="GridCell.Tab.0.right" timestamp="1586425783475">
+    <state width="1860" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586488075954" />
+    <state width="1860" height="303" key="GridCell.Tab.0.right" timestamp="1586488075954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="466" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586425783475" />
+    <state width="1860" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586488075954" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1584726317441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
